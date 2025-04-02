@@ -1,7 +1,22 @@
 # Phone Trap
-A generalized deep learning-based framework for assistance to the human malaria diagnosis from microscopic images
+PhoneTrap helps you assess phone addiction with fun quizzes and smart insights.
 
-This project includes data and source code of our Plasmodium parasite diagnosis framework. The framework is based on segmentation and classification approches to analyse the  parasite from microscopic images of thin blood smear. The developped approaches exploits deep learning techniques to characterize the parasite shape and classifiy it among fours specises Falciparum, Malaria, Ovale and Vivax.
+Are you stuck in the loop of endless scrolling? \uD83D\uDCF1\uD83D\uDD04 PhoneTrap is here to help you break free—or at least be aware of how deep you’re in!
+
+*PhoneTrap* is a fun and insightful app designed to measure your level of phone addiction. Whether you’re a casual user or completely trapped in notifications, this app will analyze your habits through engaging quizzes and personalized results.
+
+What PhoneTrap Does:
+
+✅ Quiz-Based Assessment – Discover your phone dependency level in a fun way.
+
+✅ Personalized Ratings – Get unique, themed feedback based on your score.
+
+✅ Insights & Tips – Learn how to balance screen time with real life.
+
+Think you’re in control? Take the test and see if you’re truly free—or just another victim of the PhoneTrap!
+
+Disclaimer
+All images were generated using Dall-E with prompt related to our app.
 
 
 # Overview
