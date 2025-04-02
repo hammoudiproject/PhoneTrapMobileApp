@@ -38,6 +38,11 @@ All images were generated using Dall-E with prompt related to our app.
 
 ✅ Added feature: Get an assessment which is compared to the other user results (e.g. friends).
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/4993510f-1170-49c6-b73e-bd329f41f592" alt="Image 4" width="30%" />
+
+
+
 # Team
 
 **Designers & developpers:**
