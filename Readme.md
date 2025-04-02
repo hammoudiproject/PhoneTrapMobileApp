@@ -34,10 +34,11 @@ All images were generated using Dall-E with prompt related to our app.
 
 </div>
 
+# Version 2
 
+✅ Added feature: Get an assessment which is compared to the other user results (e.g. friends).
 
 # Team
-
 
 **Designers & developpers:**
 
